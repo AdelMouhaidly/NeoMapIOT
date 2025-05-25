@@ -1,5 +1,5 @@
 
-# Projeto Mottu Challenge -  Mobile
+# Projeto Mottu Challenge -  IOT
 
 Este repositório reúne duas partes principais do desafio:
 
